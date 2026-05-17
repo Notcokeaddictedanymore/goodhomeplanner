@@ -1,0 +1,4 @@
+interface:
+  display_name: "好房子展厅策划设计"
+  short_description: "策划中国好房子与高端住宅价值展厅"
+  default_prompt: "Use $good-home-showroom-planner to create a good-home showroom strategy for a luxury residential project."
